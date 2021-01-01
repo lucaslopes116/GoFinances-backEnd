@@ -3,6 +3,7 @@
   "host": "localhost",
   "port": 5432,
   "username": "postgres",
+  "synchronize": true,
   "password": "docker",
   "database": "gostack_desafio06",
   "entities": ["./src/models/*.ts"],
